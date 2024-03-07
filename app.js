@@ -1,5 +1,4 @@
-// console.log("Ahmed Saeed");
-// var a = "Ahmed Dev";
+
 // console.log(a);
 
 var num1 = +prompt("Enter Your Number");
